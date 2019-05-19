@@ -10,8 +10,6 @@ public class No_39 {
         List<List<Integer>> result = new ArrayList<>();
         Arrays.sort(candidates);
         find(result, new ArrayList<>(), candidates, target, 0);
-
-
         return result;
 
     }
