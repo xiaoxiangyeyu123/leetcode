@@ -16,6 +16,7 @@
 [NO_167 两数之和 II - 输入有序数组](/src/Array/No_167.java) </br>
 [NO_169 求众数](/src/Array/No_169.java) </br>
 [NO_219 存在重复元素 II](/src/Array/No_219.java) </br>
+[NO_268 缺失数字](/src/Array/No_268.java) </br>
 [NO_278 第一个错误的版本](/src/Array/No_278.java) </br>
 [NO_283 移动零](/src/Array/No_283.java) </br>
 [NO_485 最大连续1的个数](/src/Array/No_485.java) </br>
@@ -25,4 +26,6 @@
 [NO_561 数组拆分 I](/src/Array/No_561.java) </br>
 [NO_581 最短无序连续子数组](/src/Array/No_581.java) </br>
 [NO_665 非递减数列](/src/Array/No_665.java) </br>
+[NO_888 公平的糖果交换](/src/Array/No_888.java) </br>
 [NO_905 按奇偶排序数组](/src/Array/No_905.java) </br>
+[NO_977 有序数组的平方](/src/Array/No_977.java) </br>
