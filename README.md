@@ -26,6 +26,7 @@
 [NO_509 斐波那契数](/src/Array/No_509.java) </br>
 [NO_532 数组中的K-diff数对](/src/Array/No_532.java) </br>
 [NO_561 数组拆分 I](/src/Array/No_561.java) </br>
+[NO_556 重塑矩阵](/src/Array/No_566.java) </br>
 [NO_581 最短无序连续子数组](/src/Array/No_581.java) </br>
 [NO_665 非递减数列](/src/Array/No_665.java) </br>
 [NO_724 寻找数组的中心索引](/src/Array/No_724.java) </br>
