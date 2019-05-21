@@ -31,6 +31,7 @@
 [NO_556 重塑矩阵](/src/Array/No_566.java) </br>
 [NO_581 最短无序连续子数组](/src/Array/No_581.java) </br>
 [NO_665 非递减数列](/src/Array/No_665.java) </br>
+[NO_697 数组的度](/src/Array/No_697.java) </br>
 [NO_724 寻找数组的中心索引](/src/Array/No_724.java) </br>
 [NO_888 公平的糖果交换](/src/Array/No_888.java) </br>
 [NO_905 按奇偶排序数组](/src/Array/No_905.java) </br>
