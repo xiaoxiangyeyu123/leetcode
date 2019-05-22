@@ -45,5 +45,6 @@
 [NO_151 翻转字符串里的单词](/src/String/No_151.java) </br>
 [NO_205 同构字符串](/src/String/No_205.java) </br>
 [NO_242 有效的字母异位词](/src/String/No_242.java) </br>
+[NO_383 赎金信](/src/String/No_383.java) </br>
 [NO_438 找到字符串中所有字母异位词](/src/String/No_438.java) </br>
 [NO_345 反转字符串中的元音字母](/src/String/No_345.java) </br>
