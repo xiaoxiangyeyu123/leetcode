@@ -37,6 +37,7 @@
 [NO_665 非递减数列](/src/Array/No_665.java) </br>
 [NO_697 数组的度](/src/Array/No_697.java) </br>
 [NO_724 寻找数组的中心索引](/src/Array/No_724.java) </br>
+[NO_896 单调数列](/src/Array/No_896.java) </br>
 [NO_888 公平的糖果交换](/src/Array/No_888.java) </br>
 [NO_905 按奇偶排序数组](/src/Array/No_905.java) </br>
 [NO_977 有序数组的平方](/src/Array/No_977.java) </br>
